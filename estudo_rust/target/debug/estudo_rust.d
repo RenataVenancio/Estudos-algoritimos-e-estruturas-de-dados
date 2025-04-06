@@ -1,0 +1,1 @@
+D:\Users\Renata\Desktop\projetos\Estudos-algoritimos-e-estruturas-de-dados\estudo_rust\target\debug\estudo_rust.exe: D:\Users\Renata\Desktop\projetos\Estudos-algoritimos-e-estruturas-de-dados\estudo_rust\src\main.rs
